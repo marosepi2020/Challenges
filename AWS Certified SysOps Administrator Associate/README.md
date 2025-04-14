@@ -37,11 +37,8 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 | 6 | Laboratorios Módulo 3 | 1 en vivo + 2 pregrabados |
 | 7 | Redes, Seguridad y Costos | Sesión en vivo (teoría) |
 | 8 | Laboratorios Módulos 4-6 | 1 en vivo + 5 pregrabados |
-
----
-
-### 🧪 Laboratorios incluidos
-Consulta aquí el resumen completo de laboratorios 👉 [Resumen de Laboratorios](Resumen_Laboratorios_SysOps_Challenge.md)
+| 9 | Laboratorios avanzados | en vivo o pregrabados |
+| 10 | Sesión de Simulador examen en Kahoot | 1 en vivo + voucher 100% al primer puesto |
 
 ---
 
@@ -124,9 +121,11 @@ Consulta aquí el resumen completo de laboratorios 👉 [Resumen de Laboratorios
   - Cifrado con KMS y S3
   - Presupuestos y Cost Explorer
 
-# 📘 Resumen de Laboratorios - Challenge AWS SysOps (8 Semanas)
+### 🧪 Laboratorios incluidos
 
-Cada laboratorio está alineado a los dominios oficiales del examen AWS Certified SysOps Administrator – Associate. Los laboratorios en vivo son parte de las sesiones semanales, mientras que los pregrabados estarán disponibles en el canal CloudOps Guild.
+  # 📘 Resumen de Laboratorios - Challenge AWS SysOps (8 Semanas)
+
+Cada laboratorio está alineado a los dominios oficiales del examen AWS Certified SysOps Administrator – Associate. Los laboratorios en vivo son parte de las sesiones semanales, mientras que los pregrabados estarán disponibles en el [canal CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity).
 
 | Laboratorio                                                      | Modalidad   | Dominio del examen                       |
 |:-----------------------------------------------------------------|:------------|:-----------------------------------------|
@@ -175,6 +174,16 @@ Cada laboratorio está alineado a los dominios oficiales del examen AWS Certifie
 ## ✨ ¡Prepárate para llevar tus habilidades al siguiente nivel y destacar en el mundo del Cloud Computing! ✨
 
 **Fecha de lanzamiento: En programación.**
+
+---
+
+## 🌟 Beneficios exclusivos para suscriptores
+
+Si eres parte de nuestra comunidad en Meetup, estás suscrito al [canal de YouTube CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity) y acumulas puntos durante el Challenge para ganar premios como Vouchers, Créditos de AWS, BuilderCards y demás, disfrutarás de:
+
+✅ 2 semanas extras de simuladores y laboratorios avanzados.
+
+✅ Acceso a sesiones interactivas en Kahoot.
 
 ---
 
