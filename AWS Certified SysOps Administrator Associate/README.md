@@ -1,6 +1,6 @@
 # 🚀 Challenge AWS SysOps Administrator – Serie de Laboratorios Prácticos
 
-![banner](imagenes/banner_sysops_1.PNG)
+![banner](imagenes/banner_sysops.png)
 
 Prepárate para la certificación **AWS Certified SysOps Administrator – Associate** con esta serie completa de videos, sesiones en vivo y de **16 laboratorios prácticos** alineados a los dominios del examen oficial. Cada laboratorio está diseñado para que aprendas haciendo, con paso a paso, laboratorios en vivo, videos pregrabados y recursos descargables. 🌩️
 
