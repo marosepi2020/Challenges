@@ -133,7 +133,7 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Desarrollo de laboratorio nivel avanzado donde se integre lo visto en el Challenge
 
 **Semana 10: Concurso simulador examen en Kahoot**
-- Desarrollo de laboratorio nivel avanzado donde se integre lo visto en el Challenge
+- Sesión de simulador examen en Kahoot, ganaran premios los 3 primeros lugares.
 - 👉 Sesión en vivo
 
 ### 🧪 Laboratorios incluidos
