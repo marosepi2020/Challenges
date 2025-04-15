@@ -70,15 +70,23 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 | Semana 6 | Laboratorios del Módulo 3 | ASG, Backup, S3 Lifecycle | 🧪 1 en vivo + 2 pregrabados |
 | Semana 7 | Redes, seguridad y costos | Módulos 4, 5 y 6 combinados | 🔴 Sesión en vivo |
 | Semana 8 | Laboratorios módulos 4, 5 y 6 | VPC, ELB, IAM, KMS, Budgets | 🧪 1 en vivo + 5 pregrabados |
+| Semana 9 | Laboratorios avanzados | en vivo o pregrabados |
+| Semana 10 | Sesión de Simulador examen en Kahoot | 1 en vivo + voucher 100% al primer puesto |
 
 ---
 
 ### 🔎 Detalle Semana a Semana
 
+## Semana 0: 🚀 Lanzamiento oficial
+
+- Introducción al Challenge.
+- Objetivos y plan de estudios.
+- Tips para el éxito durante el programa.
+
 **Semana 1: Fundamentos y Despliegue (Teoría)**
 - Provisionamiento con EC2, ASG y ALB
 - Introducción a CloudFormation
-- 👉 Sesión en vivo con demostración básica
+- 👉 Sesión en vivo
 
 **Semana 2: Laboratorios Módulo 1**
 - 🧪 Laboratorio en vivo: EC2 + User Data
@@ -90,7 +98,7 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 **Semana 3: Monitoreo y Logs (Teoría)**
 - Métricas, logs y alarmas con CloudWatch
 - Run Command y monitoreo proactivo
-- 👉 Sesión en vivo con dashboards
+- 👉 Sesión en vivo
 
 **Semana 4: Laboratorios Módulo 2**
 - 🧪 Laboratorio en vivo: Logs Insights y alarmas
@@ -100,7 +108,7 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 
 **Semana 5: Alta Disponibilidad y Recuperación (Teoría)**
 - Estrategias de resiliencia y backup
-- 👉 Sesión en vivo con ejemplos de recuperación
+- 👉 Sesión en vivo
 
 **Semana 6: Laboratorios Módulo 3**
 - 🧪 Laboratorio en vivo: ASG escalado automático
@@ -110,7 +118,7 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 
 **Semana 7: Redes, Seguridad y Costos (Teoría)**
 - Fundamentos de VPC, IAM, KMS y Budgets
-- 👉 Sesión en vivo con overview de dominios cruzados
+- 👉 Sesión en vivo
 
 **Semana 8: Laboratorios Módulos 4-6**
 - 🧪 Laboratorio en vivo: Troubleshooting VPC
@@ -120,6 +128,13 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
   - IAM granular
   - Cifrado con KMS y S3
   - Presupuestos y Cost Explorer
+
+**Semana 9: Laboratorios avanzados (Paso a Paso)**
+- Desarrollo de laboratorio nivel avanzado donde se integre lo visto en el Challenge
+
+**Semana 10: Concurso simulador examen en Kahoot**
+- Desarrollo de laboratorio nivel avanzado donde se integre lo visto en el Challenge
+- 👉 Sesión en vivo
 
 ### 🧪 Laboratorios incluidos
 
@@ -181,7 +196,7 @@ Cada laboratorio está alineado a los dominios oficiales del examen AWS Certifie
 
 Si eres parte de nuestra comunidad en Meetup, estás suscrito al [canal de YouTube CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity) y acumulas puntos durante el Challenge para ganar premios como Vouchers, Créditos de AWS, BuilderCards y demás, disfrutarás de:
 
-✅ 2 semanas extras de simuladores y laboratorios avanzados.
+✅ 2 semanas extras de simuladores y laboratorios avanzados (Semana 9 y Semana 10).
 
 ✅ Acceso a sesiones interactivas en Kahoot.
 
