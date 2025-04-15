@@ -136,9 +136,9 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Sesión de simulador examen en Kahoot, ganaran premios los 3 primeros lugares.
 - 👉 Sesión en vivo
 
-### 🧪 Laboratorios incluidos
+## 🧪 Laboratorios incluidos
 
-  # 📘 Resumen de Laboratorios - Challenge AWS SysOps (8 Semanas)
+  ### 📘 Resumen de Laboratorios - Challenge AWS SysOps (8 Semanas)
 
 Cada laboratorio está alineado a los dominios oficiales del examen AWS Certified SysOps Administrator – Associate. Los laboratorios en vivo son parte de las sesiones semanales, mientras que los pregrabados estarán disponibles en el [canal CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity).
 
@@ -208,12 +208,13 @@ Si eres parte de nuestra comunidad en Meetup, estás suscrito al [canal de YouTu
 
 ✅ Síguenos en nuestras redes sociales:
 
-- **YouTube:** [CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity)
-- **Medium:** [@marioserranopineda](https://medium.com/@marioserranopineda)
-- **LinkedIn:** [Mario Serrano](https://www.linkedin.com/in/mario-rodrigo-serrano-pineda/)
-- **Blog CloudopsGuild:** [Blog](https://cloudopsguild.com/blog/)
-- **LinkedIn CloudOpsGuild:** [CloudOps Guild](https://www.linkedin.com/company/cloudopsguild/)
-- **MeetUp:** [Grupo MeetUp AWS Cartagena Community](https://www.meetup.com/es-ES/aws-colombia-cartagena/)
+- 📺 [Canal YouTube – CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity)
+- 📝 [Blog Medium](https://medium.com/@marioserranopineda)
+- 🌐 [Web Oficial](https://cloudopsguild.com/blog/)
+- 💼 [LinkedIn – Mario Serrano](https://www.linkedin.com/in/mario-rodrigo-serrano-pineda/)
+- 👥 [MeetUp AWS Cartagena](https://www.meetup.com/es-ES/aws-colombia-cartagena/)
+- 📲 [Telegram Comunidad](https://t.me/awscloudopsguild)
+- 👥 [LinkedIn CloudOps Guild](https://www.linkedin.com/company/cloudopsguild/)
 - **Facebook:** [AWS Cartagena Community](https://www.meetup.com/es-ES/aws-colombia-cartagena/)
 
 ---
