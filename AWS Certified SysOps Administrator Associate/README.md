@@ -77,7 +77,7 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 
 ### 🔎 Detalle Semana a Semana
 
-## Semana 0: 🚀 Lanzamiento oficial
+**Semana 0: 🚀 Lanzamiento oficial**
 
 - Introducción al Challenge.
 - Objetivos y plan de estudios.
