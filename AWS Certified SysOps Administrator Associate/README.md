@@ -82,6 +82,8 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Introducción al Challenge.
 - Objetivos y plan de estudios.
 - Tips para el éxito durante el programa.
+- **[Presentación](./recursos/AWS_SysOps_Semana_0.pdf)**
+- **[Video sesión en vivo](https://www.youtube.com/live/Gqz7puXlg-4?si=USasrCeyxjDl-exd)**
 
 **Semana 1: Fundamentos y Despliegue (Teoría)**
 - Provisionamiento con EC2, ASG y ALB
