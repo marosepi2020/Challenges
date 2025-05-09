@@ -1,5 +1,7 @@
 # 🌩️ AWS Certification Challenges
 
+![Banner](./imagenes/banner_challenges_804x661px.png)
+
 Este repositorio contiene los diferentes **challenges** diseñados para preparar y evaluar habilidades prácticas en los distintos niveles de certificación en la nube de AWS:
 
 - 🧰 **Cloud Practitioner**
@@ -14,10 +16,16 @@ Cada conjunto de challenges está pensado para reforzar los conocimientos teóri
 ```
 challenges/
 ├── cloud-practitioner/
+  └── imagenes/
+  └── recursos/
 │ └── README.md
 ├── ai-practitioner/
+  └── imagenes/
+  └── recursos/
 │ └── README.md
 ├── sysops-practitioner/
+  └── imagenes/
+  └── recursos/
 │ └── README.md
 └── README.md <-- Este archivo
 ```
@@ -44,13 +52,16 @@ cd challenges/cloud-practitioner
 
 Sigue las instrucciones contenidas en el README.md de ese directorio para comenzar con los challenges.
 
-🤝 Contribuciones
+## 🤝 Contribuciones
+
 Si deseas sugerir mejoras o agregar nuevos challenges, por favor abre un issue o crea un pull request. ¡Las contribuciones son bienvenidas! 🙌
 
-📄 Licencia
+## 📄 Licencia
+
 Este repositorio se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-✨ Inspírate
+## ✨ Inspírate
+
 "No estás solo en este viaje. Cada línea de código, cada reto superado, te acerca un paso más a convertirte en un profesional certificado en la nube. ¡Cree en ti y sigue construyendo! ☁️💪"
 
 ¡Nos vemos en la cima del cloud! ☁️🚀
