@@ -5,7 +5,7 @@
 Este repositorio contiene los diferentes **challenges** diseñados para preparar y evaluar habilidades prácticas en los distintos niveles de certificación en la nube de AWS:
 
 - 🧰 **Cloud Practitioner**
-- 🤖 **AI Practitioner**
+- 🤖 **[AI Practitioner](https://github.com/marosepi2020/Challenges/tree/main/AWS%20AI%20Practitioner%20Foundational%20Certified)**
 - 🛠️ **[SysOps Administrator](https://github.com/marosepi2020/Challenges/tree/main/AWS%20Certified%20SysOps%20Administrator%20Associate)**
 
 Cada conjunto de challenges está pensado para reforzar los conocimientos teóricos y prácticos requeridos por su respectiva certificación, brindando una experiencia de aprendizaje guiada y enfocada en escenarios del mundo real.
@@ -51,6 +51,15 @@ cd challenges/cloud-practitioner
 ```
 
 Sigue las instrucciones contenidas en el README.md de ese directorio para comenzar con los challenges.
+
+## 📢 Conecta con la comunidad
+
+- **YouTube:** [CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity)  
+- **Medium:** [@marioserranopineda](https://medium.com/@marioserranopineda)  
+- **LinkedIn (autor):** [Mario Serrano](https://www.linkedin.com/in/mario-rodrigo-serrano-pineda/)  
+- **Blog:** [CloudOps Guild](https://cloudopsguild.com/blog/)  
+- **MeetUp:** [AWS Cartagena Community](https://www.meetup.com/es-ES/aws-colombia-cartagena/)  
+- **Facebook:** [AWS Cartagena](https://www.facebook.com/awscolombiacartagena)
 
 ## 🤝 Contribuciones
 

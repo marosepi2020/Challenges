@@ -84,6 +84,7 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Tips para el éxito durante el programa.
 - **[Presentación](./recursos/AWS_SysOps_Semana_0.pdf)**
 - **[Video sesión en vivo](https://www.youtube.com/live/Gqz7puXlg-4?si=USasrCeyxjDl-exd)**
+- **[Plan de entrenamiento digital](https://explore.skillbuilder.aws/learn/courses/9313/retiring-exam-prep-standard-course-aws-certified-sysops-administrator-associate-soa-c02)**
 
 **Semana 1: Fundamentos y Despliegue (Teoría)**
 - Provisionamiento con EC2, ASG y ALB
@@ -190,7 +191,7 @@ Cada laboratorio está alineado a los dominios oficiales del examen AWS Certifie
 
 ## ✨ ¡Prepárate para llevar tus habilidades al siguiente nivel y destacar en el mundo del Cloud Computing! ✨
 
-**Fecha de lanzamiento: En programación.**
+**Fecha de lanzamiento: 7 de mayo 2025 7:00 pm (GMT -05).**
 
 ---
 
