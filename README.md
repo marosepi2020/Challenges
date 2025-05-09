@@ -4,14 +4,14 @@ Este repositorio contiene los diferentes **challenges** diseñados para preparar
 
 - 🧰 **Cloud Practitioner**
 - 🤖 **AI Practitioner**
-- 🛠️ **SysOps Administrator**
+- 🛠️ **[SysOps Administrator](https://github.com/marosepi2020/Challenges/tree/main/AWS%20Certified%20SysOps%20Administrator%20Associate)**
 
 Cada conjunto de challenges está pensado para reforzar los conocimientos teóricos y prácticos requeridos por su respectiva certificación, brindando una experiencia de aprendizaje guiada y enfocada en escenarios del mundo real.
 
 ---
 
 ## 🗂️ Estructura del repositorio
-
+```
 challenges/
 ├── cloud-practitioner/
 │ └── README.md
@@ -20,6 +20,7 @@ challenges/
 ├── sysops-practitioner/
 │ └── README.md
 └── README.md <-- Este archivo
+```
 
 yaml
 
