@@ -103,12 +103,16 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
    - Getting Started with AWS CloudFormation (20 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/16179/Introducci%C3%B3n-a-AWS-CloudFormation-Espa%C3%B1ol-LATAM-%7C-Getting-Started-with-AWS-CloudFormation-LATAM-Spanish-)**
    - AWS CloudFormation Stacks – Troubleshooting (30 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/16179/Introducci%C3%B3n-a-AWS-CloudFormation-Espa%C3%B1ol-LATAM-%7C-Getting-Started-with-AWS-CloudFormation-LATAM-Spanish-)**
    - Introduction to AWS Service Catalog (10 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/255/introduction-to-aws-service-catalog/lessons)**
+
  - Asistir a la sesión en vivo de repaso y resolución de dudas.
 
 - **🛠️ Recomendaciones:**
   -Comienza por AWS Technical Essentials si aún no tienes experiencia práctica: te dará una base sólida del ecosistema AWS.
+
   -Practica lanzamientos de stacks con archivos YAML o JSON usando CloudFormation para entender la sintaxis y resolver errores comunes.
+
   -Usa tanto la CLI como la consola para afianzar la lógica detrás del aprovisionamiento automatizado.
+  
   -Explora el AWS Service Catalog para aprender a reutilizar configuraciones de infraestructura seguras y estandarizadas.
 
 - **🧠 Puntos Clave a dominar esta semana:**
