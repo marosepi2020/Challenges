@@ -107,17 +107,21 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
  - Asistir a la sesión en vivo de repaso y resolución de dudas.
 
 - **🛠️ Recomendaciones:**
+
   -Comienza por AWS Technical Essentials si aún no tienes experiencia práctica: te dará una base sólida del ecosistema AWS.
 
   -Practica lanzamientos de stacks con archivos YAML o JSON usando CloudFormation para entender la sintaxis y resolver errores comunes.
 
   -Usa tanto la CLI como la consola para afianzar la lógica detrás del aprovisionamiento automatizado.
-  
+
   -Explora el AWS Service Catalog para aprender a reutilizar configuraciones de infraestructura seguras y estandarizadas.
 
 - **🧠 Puntos Clave a dominar esta semana:**
+
   -Diferencias entre Launch Templates y Launch Configs
+
   -Uso de Stack Sets y solución de errores en CloudFormation
+
   -Automatización con scripting en CLI
 
 **🪄 Esta semana sienta las bases para el resto del Challenge. ¡Aprovecha el contenido, toma apuntes y participa en la comunidad para sacarle el máximo provecho!**
