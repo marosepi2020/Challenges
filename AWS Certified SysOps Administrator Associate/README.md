@@ -82,6 +82,10 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Introducción al Challenge.
 - Objetivos y plan de estudios.
 - Tips para el éxito durante el programa.
+- **✅ Actividades de la semana:**
+ - Crear tu cuenta en AWS Skill Builder y comenzar el curso oficial del examen.
+ - Registrarte en AWS Educate y comenzar a acumular puntos.
+ - Completar el Módulo 1 del curso en línea.
 - **[Presentación](./recursos/AWS_SysOps_Semana_0.pdf)**
 - **[Video sesión en vivo](https://www.youtube.com/live/Gqz7puXlg-4?si=USasrCeyxjDl-exd)**
 - **[Plan de entrenamiento digital](https://explore.skillbuilder.aws/learn/courses/9313/retiring-exam-prep-standard-course-aws-certified-sysops-administrator-associate-soa-c02)**
@@ -90,6 +94,29 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Provisionamiento con EC2, ASG y ALB
 - Introducción a CloudFormation
 - 👉 Sesión en vivo
+- **✅ Actividades de la semana:**
+ - Iniciar los siguientes cursos recomendados para reforzar tu aprendizaje:
+ - 📚 Cursos recomendados – Duración total estimada: 5 horas
+   - AWS Technical Essentials	(4 horas)🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/7854/Fundamentos-t%C3%A9cnicos-de-AWS-Espa%C3%B1ol-LATAM-%7C-AWS-Technical-Essentials-LATAM-Spanish-)**
+   - Introduction to AWS Management Console (20 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/253/introduction-to-aws-management-console/lessons)**
+   - AWS CLI Basics	(7 min)🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/5602/Introducci%C3%B3n-a-AWS-Command-Line-Interface-CLI-Espa%C3%B1ol-LATAM-%7C-Introduction-to-AWS-Command-Line-Interface-CLI-LATAM-Spanish-)**
+   - Getting Started with AWS CloudFormation (20 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/16179/Introducci%C3%B3n-a-AWS-CloudFormation-Espa%C3%B1ol-LATAM-%7C-Getting-Started-with-AWS-CloudFormation-LATAM-Spanish-)**
+   - AWS CloudFormation Stacks – Troubleshooting (30 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/16179/Introducci%C3%B3n-a-AWS-CloudFormation-Espa%C3%B1ol-LATAM-%7C-Getting-Started-with-AWS-CloudFormation-LATAM-Spanish-)**
+   - Introduction to AWS Service Catalog (10 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/255/introduction-to-aws-service-catalog/lessons)**
+ - Asistir a la sesión en vivo de repaso y resolución de dudas.
+
+- **🛠️ Recomendaciones:**
+  -Comienza por AWS Technical Essentials si aún no tienes experiencia práctica: te dará una base sólida del ecosistema AWS.
+  -Practica lanzamientos de stacks con archivos YAML o JSON usando CloudFormation para entender la sintaxis y resolver errores comunes.
+  -Usa tanto la CLI como la consola para afianzar la lógica detrás del aprovisionamiento automatizado.
+  -Explora el AWS Service Catalog para aprender a reutilizar configuraciones de infraestructura seguras y estandarizadas.
+
+- **🧠 Puntos Clave a dominar esta semana:**
+  -Diferencias entre Launch Templates y Launch Configs
+  -Uso de Stack Sets y solución de errores en CloudFormation
+  -Automatización con scripting en CLI
+
+**🪄 Esta semana sienta las bases para el resto del Challenge. ¡Aprovecha el contenido, toma apuntes y participa en la comunidad para sacarle el máximo provecho!**
 
 **Semana 2: Laboratorios Módulo 1**
 - 🧪 Laboratorio en vivo: EC2 + User Data
@@ -170,7 +197,7 @@ Cada laboratorio está alineado a los dominios oficiales del examen AWS Certifie
 
 **2. [Guía del examen AWS Certified SysOps Administrator Associate](./recursos/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)**
 
-3. Plan de estudios
+**3. [Plan de estudios](./recursos/Plan_Estudio_AWS_SysOps_Administrator.pdf)**
 
 4. Guía pdf: 50 términos, conceptos y servicios más relevantes para el AI Practitioner
 
