@@ -132,6 +132,10 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
   - Auto Scaling con ALB
   - CloudFormation básico
   - Arquitectura Multi-tier
+  - [Slides](./recursos/AWS%20SysOps%20Semana%202.pdf)
+  - [UserData IMDSv1](./recursos/2_Script_UserData.txt)
+  - [UserData IMDSv2](./recursos/5_Script_UserData_IMDSv2.txt)
+  - [Test](./recursos/AWS%20SysOps%20Semana%202%20test.pdf)
 
 **Semana 3: Monitoreo y Logs (Teoría)**
 - Métricas, logs y alarmas con CloudWatch

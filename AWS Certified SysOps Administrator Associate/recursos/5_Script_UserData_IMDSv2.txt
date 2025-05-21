@@ -1,0 +1,17 @@
+#!/bin/bash
+yum update -y
+yum install -y httpd -y
+systemctl start httpd
+systemctl enable httpd
+
+# Obtener el token para IMDSv2
+TOKEN=$(curl -X PUT "http://169.254.169.254/latest/api/token" \
+  -H "X-aws-ec2-metadata-token-ttl-seconds: 21600")
+
+# Usar el token para consultar metadata
+INSTANCE_ID=$(curl -H "X-aws-ec2-metadata-token: $TOKEN" \
+  -s http://169.254.169.254/latest/meta-data/instance-id)
+
+# Escribir el HTML
+echo "<h1>Hola desde EC2</h1>" > /var/www/html/index.html
+echo "<p>Instance ID: $INSTANCE_ID</p>" >> /var/www/html/index.html
