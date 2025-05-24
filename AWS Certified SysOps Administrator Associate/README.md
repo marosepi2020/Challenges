@@ -129,9 +129,9 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 **Semana 2: Laboratorios Módulo 1**
 - 🧪 Laboratorio en vivo: EC2 + User Data
 - 📼 Pregrabados:
-  - Auto Scaling con ALB
-  - CloudFormation básico
-  - Arquitectura Multi-tier
+  - [Auto Scaling con ALB](https://youtu.be/c6lNr1kXe_Y)
+  - [CloudFormation básico](https://youtu.be/71C3OZFNcq0)
+  - [Arquitectura Multi-tier](https://youtu.be/QvIeMfNaGj0)
   - [Slides](./recursos/AWS%20SysOps%20Semana%202.pdf)
   - [UserData IMDSv1](./recursos/2_Script_UserData.txt)
   - [UserData IMDSv2](./recursos/5_Script_UserData_IMDSv2.txt)
