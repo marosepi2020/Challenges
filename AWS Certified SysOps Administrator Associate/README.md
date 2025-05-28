@@ -138,10 +138,45 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
   - [Test](./recursos/AWS%20SysOps%20Semana%202%20test.pdf)
 
 **Semana 3: Monitoreo y Logs (Teoría)**
+
 - Métricas, logs y alarmas con CloudWatch
+
 - Run Command y monitoreo proactivo
+
 - 👉 Sesión en vivo
 
+- **✅ Actividades de la semana:**
+
+ - Iniciar los siguientes cursos recomendados para reforzar tu aprendizaje:
+
+ - 📚 Cursos recomendados – Duración total estimada: 7 horas 30 min
+ 
+   - AWS Observability (5 horas)🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/courses/14688/aws-observability)**
+   - Introduction to Amazon CloudWatch Logs (15 min)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/191/introduction-to-amazon-cloudwatch-logs)**
+   - Introduction to Amazon CloudWatch Logs Insights	(15 min)🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/265/introduction-to-amazon-cloudwatch-logs-insights)**
+   - Amazon CloudWatch – Getting Started (1 hora)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/18394/amazon-cloudwatch-getting-started)**
+   - AWS X-Ray – Getting Started (1 hora)	🔗 **[Ver curso](https://explore.skillbuilder.aws/learn/learning-plans/90/cloud-operator-sysops-learning-plan/courses/18110/aws-x-ray-getting-started)**
+
+- Asistir a la sesión en vivo de repaso y resolución de dudas.
+
+- **🛠️ Recomendaciones:**
+
+  -Usa CloudWatch con métricas customizadas y alarmas reales.
+
+  -Practica la trazabilidad entre servicios con X-Ray.
+
+  -Analiza patrones de logs con Insights..
+
+  -Analiza métricas y logs reales (puede ser en entornos de laboratorio).
+
+- **🧠 Puntos Clave a dominar esta semana:**
+
+  -Logs estructurados y filtros.
+
+  -Alarmas, métricas custom y eventos
+
+  -Integración con otros servicios para monitoreo proactivo
+   
 **Semana 4: Laboratorios Módulo 2**
 - 🧪 Laboratorio en vivo: Logs Insights y alarmas
 - 📼 Pregrabados:
