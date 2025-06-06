@@ -143,7 +143,8 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 
 - Run Command y monitoreo proactivo
 
-- 👉 Sesión en vivo
+- 👉 [Sesión en vivo](https://youtube.com/live/fLO30LXrrSg?feature=share) 
+- [Slides](./recursos/AWS%20SysOps%20Semana%203.pdf)
 
 - **✅ Actividades de la semana:**
 
@@ -178,10 +179,9 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
   -Integración con otros servicios para monitoreo proactivo
    
 **Semana 4: Laboratorios Módulo 2**
-- 🧪 Laboratorio en vivo: Logs Insights y alarmas
+- 🧪 Laboratorio en vivo: [Logs Insights, alarmas y agente SSM](https://youtube.com/live/17lcGd04Tfs?feature=share)
 - 📼 Pregrabados:
-  - Instalación del agente CloudWatch
-  - Diagnóstico con SSM
+  - [Diagnóstico con SSM](https://youtu.be/mnC5K92eWsU)
 
 **Semana 5: Alta Disponibilidad y Recuperación (Teoría)**
 - Estrategias de resiliencia y backup
