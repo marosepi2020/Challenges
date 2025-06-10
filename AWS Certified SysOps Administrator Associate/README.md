@@ -187,6 +187,26 @@ Esta serie busca que desarrolles habilidades prácticas en despliegue, monitoreo
 - Estrategias de resiliencia y backup
 - 👉 Sesión en vivo
 
+- **✅ Actividades de la semana:**
+
+ - Iniciar los siguientes cursos recomendados para reforzar tu aprendizaje:
+
+ - 📚 Cursos recomendados – Duración total estimada: 4 horas 17 min
+ 
+   - Introduction to AWS Auto Scaling (17 min)🔗 **[Ver curso](https://skillbuilder.aws/learn/U1SN4M74JS/introduction-to-aws-auto-scaling/)**
+   - Getting Started with AWS Systems Manager (1 hora)	🔗 **[Ver curso](https://skillbuilder.aws/learn/1AG8ZGZN4Z/getting-started-with-aws-systems-manager/)**
+   - AWS CloudTrail – Getting Started	(1 hora)🔗 **[Ver curso](https://skillbuilder.aws/learn/6E2F4RVDA2/aws-cloudtrail-getting-started/)**
+   - Trails for AWS CloudTrail (1 hora)	🔗 **[Ver curso](https://skillbuilder.aws/learn/C46ZW9PBV6/trails-for-aws-cloudtrail-getting-started/)**
+   - AWS CloudTrail Lake – Getting Started (1 hora)	🔗 **[Ver curso](https://skillbuilder.aws/learn/3R1V2BJMDW/aws-cloudtrail-lake-getting-started/)**
+
+- Asistir a la sesión en vivo de repaso y resolución de dudas.
+
+- Realiza pruebas de escalamiento automático.
+
+- Usa Systems Manager para orquestar tareas.
+
+- Centraliza logs en CloudTrail Lake para auditoría.
+
 **Semana 6: Laboratorios Módulo 3**
 - 🧪 Laboratorio en vivo: ASG escalado automático
 - 📼 Pregrabados:
